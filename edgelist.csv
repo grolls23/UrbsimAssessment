@@ -1,546 +1,546 @@
 Source,Target,Line Name,Flows
 Wembley Park,Kingsbury,Jubilee,9989
 Wembley Park,Neasden,Jubilee,4996
-Wembley Park,Preston Road,Metropolitan,30679
-Wembley Park,Finchley Road,Metropolitan,32241
-Kingsbury,Queensbury,Jubilee,9989
-Queensbury,Canons Park,Jubilee,7666
+Wembley Park,Preston Road,Metropolitan,6299
+Wembley Park,Finchley Road,Metropolitan,30679
+Kingsbury,Queensbury,Jubilee,7666
+Queensbury,Canons Park,Jubilee,4916
 Canons Park,Stanmore,Jubilee,2641
 Stratford,West Ham,Jubilee,11605
 Stratford,Mile End,Central,38505
-Stratford,Leyton,Central,38505
+Stratford,Leyton,Central,50355
 Stratford,Liverpool Street,TfL Rail,20002
-Stratford,Maryland,TfL Rail,20002
-Stratford,Hackney Wick,London Overground,19907
-Stratford,Stratford High Street,DLR,1170
-Stratford,Pudding Mill Lane,DLR,1060
+Stratford,Maryland,TfL Rail,28956
+Stratford,Hackney Wick,London Overground,19394
+Stratford,Stratford High Street,DLR,1060
+Stratford,Pudding Mill Lane,DLR,4628
 Stratford,Stratford International,DLR,2287
 West Ham,Canning Town,Jubilee,10951
-West Ham,Bromley-by-Bow,District,28326
-West Ham,Bromley-by-Bow,Hammersmith & City,
-West Ham,Plaistow,District,26934
-West Ham,Plaistow,Hammersmith & City,
+West Ham,Bromley-by-Bow,District,26934
+West Ham,Bromley-by-Bow,Hammersmith & City,0
+West Ham,Plaistow,District,28676
+West Ham,Plaistow,Hammersmith & City,0
 West Ham,Abbey Road,DLR,3828
-West Ham,Star Lane,DLR,3828
-Canning Town,North Greenwich,Jubilee,10951
-Canning Town,Star Lane,DLR,5138
+West Ham,Star Lane,DLR,5138
+Canning Town,North Greenwich,Jubilee,11342
+Canning Town,Star Lane,DLR,5160
 Canning Town,Royal Victoria,DLR,6705
-Canning Town,East India,DLR,5160
+Canning Town,East India,DLR,7067
 Canning Town,West Silvertown,DLR,12380
-North Greenwich,Canary Wharf,Jubilee,17562
+North Greenwich,Canary Wharf,Jubilee,12143
 Canary Wharf,Canada Water,Jubilee,17562
-Canary Wharf,West India Quay,DLR,13533
+Canary Wharf,West India Quay,DLR,17817
 Canary Wharf,Heron Quays,DLR,14135
-Canada Water,Bermondsey,Jubilee,29263
-Canada Water,Rotherhithe,London Overground,14453
-Canada Water,Surrey Quays,London Overground,4786
+Canada Water,Bermondsey,Jubilee,27689
+Canada Water,Rotherhithe,London Overground,13555
+Canada Water,Surrey Quays,London Overground,22327
 Bermondsey,London Bridge,Jubilee,29263
-London Bridge,Southwark,Jubilee,31222
-London Bridge,Bank and Monument,Northern,33731
-London Bridge,Borough,Northern,43007
+London Bridge,Southwark,Jubilee,33876
+London Bridge,Bank and Monument,Northern,43007
+London Bridge,Borough,Northern,40059
 Southwark,Waterloo,Jubilee,31222
 Waterloo,Westminster,Jubilee,20088
 Waterloo,Embankment,Northern,46986
 Waterloo,Embankment,Bakerloo,2869
-Waterloo,Kennington,Northern,46986
+Waterloo,Kennington,Northern,21682
 Waterloo,Bank and Monument,Waterloo & City,22457
 Waterloo,Lambeth North,Bakerloo,5859
-Westminster,Green Park,Jubilee,20088
-Westminster,St. James's Park,Circle,28219
-Westminster,St. James's Park,District,
+Westminster,Green Park,Jubilee,16107
+Westminster,St. James's Park,Circle,32371
+Westminster,St. James's Park,District,0
 Westminster,Embankment,Circle,28219
-Westminster,Embankment,District,
-Green Park,Bond Street,Jubilee,9047
+Westminster,Embankment,District,0
+Green Park,Bond Street,Jubilee,18960
 Green Park,Victoria,Victoria,55362
-Green Park,Oxford Circus,Victoria,35247
-Green Park,Hyde Park Corner,Piccadilly,15174
+Green Park,Oxford Circus,Victoria,38306
+Green Park,Hyde Park Corner,Piccadilly,16582
 Green Park,Piccadilly Circus,Piccadilly,18938
 Bond Street,Baker Street,Jubilee,9047
-Bond Street,Marble Arch,Central,34150
+Bond Street,Marble Arch,Central,36874
 Bond Street,Oxford Circus,Central,34150
 Baker Street,St. John's Wood,Jubilee,29915
-Baker Street,Great Portland Street,Circle,31068
+Baker Street,Great Portland Street,Circle,32803
 Baker Street,Great Portland Street,Metropolitan,5731
-Baker Street,Great Portland Street,Hammersmith & City,
-Baker Street,Edgware Road,Circle,36351
-Baker Street,Edgware Road,Hammersmith & City,
+Baker Street,Great Portland Street,Hammersmith & City,0
+Baker Street,Edgware Road,Circle,31068
+Baker Street,Edgware Road,Hammersmith & City,0
 Baker Street,Finchley Road,Metropolitan,32241
 Baker Street,Marylebone,Bakerloo,14285
 Baker Street,Regent's Park,Bakerloo,13697
-St. John's Wood,Swiss Cottage,Jubilee,29915
+St. John's Wood,Swiss Cottage,Jubilee,28674
 Swiss Cottage,Finchley Road,Jubilee,3073
 Finchley Road,West Hampstead,Jubilee,26654
-Neasden,Dollis Hill,Jubilee,4996
-Dollis Hill,Willesden Green,Jubilee,18172
-Willesden Green,Kilburn,Jubilee,21454
-Kilburn,West Hampstead,Jubilee,26654
-West Hampstead,Brondesbury,London Overground,12921
+Neasden,Dollis Hill,Jubilee,11870
+Dollis Hill,Willesden Green,Jubilee,13479
+Willesden Green,Kilburn,Jubilee,18172
+Kilburn,West Hampstead,Jubilee,21454
+West Hampstead,Brondesbury,London Overground,12104
 West Hampstead,Finchley Road & Frognal,London Overground,15452
 West Acton,Ealing Broadway,Central,3427
-West Acton,North Acton,Central,3427
+West Acton,North Acton,Central,3602
 Ealing Broadway,Ealing Common,District,5141
 North Acton,Hanger Lane,Central,11852
-North Acton,East Acton,Central,3602
+North Acton,East Acton,Central,7431
 West Ruislip,Ruislip Gardens,Central,1083
-Ruislip Gardens,South Ruislip,Central,3303
+Ruislip Gardens,South Ruislip,Central,1983
 South Ruislip,Northolt,Central,3303
 Northolt,Greenford,Central,6700
-Greenford,Perivale,Central,10347
-Perivale,Hanger Lane,Central,11852
-East Acton,White City,Central,7431
-White City,Shepherd's Bush,Central,7745
-Shepherd's Bush,Holland Park,Central,31438
-Shepherd's Bush,Kensington,London Overground,2771
+Greenford,Perivale,Central,9032
+Perivale,Hanger Lane,Central,10347
+East Acton,White City,Central,7745
+White City,Shepherd's Bush,Central,12241
+Shepherd's Bush,Holland Park,Central,11516
+Shepherd's Bush,Kensington,London Overground,5504
 Shepherd's Bush,Willesden Junction,London Overground,2771
 Holland Park,Notting Hill Gate,Central,31438
 Notting Hill Gate,Queensway,Central,10947
-Notting Hill Gate,High Street Kensington,Circle,9933
+Notting Hill Gate,High Street Kensington,Circle,18812
 Notting Hill Gate,High Street Kensington,District,8400
-Notting Hill Gate,Bayswater,Circle,13172
-Notting Hill Gate,Bayswater,District,
-Queensway,Lancaster Gate,Central,10947
-Lancaster Gate,Marble Arch,Central,36874
-Oxford Circus,Tottenham Court Road,Central,28392
-Oxford Circus,Warren Street,Victoria,38306
-Oxford Circus,Regent's Park,Bakerloo,13697
+Notting Hill Gate,Bayswater,Circle,17839
+Notting Hill Gate,Bayswater,District,0
+Queensway,Lancaster Gate,Central,11862
+Lancaster Gate,Marble Arch,Central,12811
+Oxford Circus,Tottenham Court Road,Central,31876
+Oxford Circus,Warren Street,Victoria,53575
+Oxford Circus,Regent's Park,Bakerloo,15815
 Oxford Circus,Piccadilly Circus,Bakerloo,16622
 Tottenham Court Road,Holborn,Central,28392
-Tottenham Court Road,Goodge Street,Northern,18383
-Tottenham Court Road,Leicester Square,Northern,15932
-Holborn,Chancery Lane,Central,26603
-Holborn,Covent Garden,Piccadilly,27777
+Tottenham Court Road,Goodge Street,Northern,17370
+Tottenham Court Road,Leicester Square,Northern,14105
+Holborn,Chancery Lane,Central,37550
+Holborn,Covent Garden,Piccadilly,30218
 Holborn,Russell Square,Piccadilly,37187
-Chancery Lane,St. Paul's,Central,37550
-St. Paul's,Bank and Monument,Central,47047
+Chancery Lane,St. Paul's,Central,47047
+St. Paul's,Bank and Monument,Central,53790
 Bank and Monument,Liverpool Street,Central,43681
 Bank and Monument,Moorgate,Northern,33731
 Bank and Monument,Cannon Street,Circle,19470
-Bank and Monument,Cannon Street,District,
-Bank and Monument,Tower Hill,Circle,37662
+Bank and Monument,Cannon Street,District,0
+Bank and Monument,Tower Hill,Circle,44302
 Bank and Monument,Tower Hill,District,6433
-Bank and Monument,Shadwell,DLR,3342
-Liverpool Street,Bethnal Green,Central,43681
+Bank and Monument,Shadwell,DLR,18155
+Liverpool Street,Bethnal Green,Central,53953
 Liverpool Street,Bethnal Green,London Overground,2643
 Liverpool Street,Aldgate,Circle,19094
-Liverpool Street,Aldgate,Metropolitan,
-Liverpool Street,Moorgate,Circle,19094
-Liverpool Street,Moorgate,Metropolitan,
+Liverpool Street,Aldgate,Metropolitan,0
+Liverpool Street,Moorgate,Circle,33854
+Liverpool Street,Moorgate,Metropolitan,0
 Liverpool Street,Moorgate,Hammersmith & City,5361
 Liverpool Street,Aldgate East,Hammersmith & City,9862
-Bethnal Green,Mile End,Central,53953
+Bethnal Green,Mile End,Central,36369
 Bethnal Green,Cambridge Heath,London Overground,15228
-Mile End,Stepney Green,District,39137
-Mile End,Stepney Green,Hammersmith & City,
-Mile End,Bow Road,District,37712
-Mile End,Bow Road,Hammersmith & City,
-Leyton,Leytonstone,Central,50355
+Mile End,Stepney Green,District,37712
+Mile End,Stepney Green,Hammersmith & City,0
+Mile End,Bow Road,District,31443
+Mile End,Bow Road,Hammersmith & City,0
+Leyton,Leytonstone,Central,43564
 Leytonstone,Snaresbrook,Central,20012
-Leytonstone,Wanstead,Central,43564
-Snaresbrook,South Woodford,Central,20012
-South Woodford,Woodford,Central,18517
+Leytonstone,Wanstead,Central,18024
+Snaresbrook,South Woodford,Central,18517
+South Woodford,Woodford,Central,14801
 Woodford,Buckhurst Hill,Central,8924
-Woodford,Roding Valley,Central,14801
+Woodford,Roding Valley,Central,1648
 Buckhurst Hill,Loughton,Central,7472
-Loughton,Debden,Central,7472
+Loughton,Debden,Central,4968
 Debden,Theydon Bois,Central,3526
-Theydon Bois,Epping,Central,3526
-Wanstead,Redbridge,Central,18024
-Redbridge,Gants Hill,Central,16302
-Gants Hill,Newbury Park,Central,14314
-Newbury Park,Barkingside,Central,9206
+Theydon Bois,Epping,Central,2899
+Wanstead,Redbridge,Central,16302
+Redbridge,Gants Hill,Central,14314
+Gants Hill,Newbury Park,Central,9206
+Newbury Park,Barkingside,Central,5262
 Barkingside,Fairlop,Central,4002
-Fairlop,Hainault,Central,4002
-Hainault,Grange Hill,Central,3048
-Grange Hill,Chigwell,Central,109
-Chigwell,Roding Valley,Central,1648
+Fairlop,Hainault,Central,3048
+Hainault,Grange Hill,Central,109
+Grange Hill,Chigwell,Central,859
+Chigwell,Roding Valley,Central,1304
 Edgware,Burnt Oak,Northern,3405
-Burnt Oak,Colindale,Northern,11345
-Colindale,Hendon Central,Northern,14809
+Burnt Oak,Colindale,Northern,6328
+Colindale,Hendon Central,Northern,11345
 Hendon Central,Brent Cross,Northern,14809
-Brent Cross,Golders Green,Northern,19613
-Golders Green,Hampstead,Northern,20686
+Brent Cross,Golders Green,Northern,15879
+Golders Green,Hampstead,Northern,19613
 Hampstead,Belsize Park,Northern,20686
-Belsize Park,Chalk Farm,Northern,24537
+Belsize Park,Chalk Farm,Northern,22545
 Chalk Farm,Camden Town,Northern,24537
-Camden Town,Euston,Northern,954
-Camden Town,Kentish Town,Northern,954
+Camden Town,Euston,Northern,55970
+Camden Town,Kentish Town,Northern,33254
 Camden Town,Mornington Crescent,Northern,122
 Euston,King's Cross St. Pancras,Northern,62110
 Euston,King's Cross St. Pancras,Victoria,12618
-Euston,Mornington Crescent,Northern,122
-Euston,Warren Street,Northern,62110
+Euston,Mornington Crescent,Northern,569
+Euston,Warren Street,Northern,80181
 Euston,Warren Street,Victoria,53575
-Euston,South Hampstead,London Overground,4333
+Euston,South Hampstead,London Overground,4295
 King's Cross St. Pancras,Angel,Northern,15016
 King's Cross St. Pancras,Highbury & Islington,Victoria,49537
 King's Cross St. Pancras,Euston Square,Circle,50005
-King's Cross St. Pancras,Euston Square,Metropolitan,
-King's Cross St. Pancras,Euston Square,Hammersmith & City,
-King's Cross St. Pancras,Farringdon,Circle,38878
-King's Cross St. Pancras,Farringdon,Metropolitan,
-King's Cross St. Pancras,Farringdon,Hammersmith & City,
-King's Cross St. Pancras,Russell Square,Piccadilly,37187
+King's Cross St. Pancras,Euston Square,Metropolitan,0
+King's Cross St. Pancras,Euston Square,Hammersmith & City,0
+King's Cross St. Pancras,Farringdon,Circle,23003
+King's Cross St. Pancras,Farringdon,Metropolitan,0
+King's Cross St. Pancras,Farringdon,Hammersmith & City,0
+King's Cross St. Pancras,Russell Square,Piccadilly,39240
 King's Cross St. Pancras,Caledonian Road,Piccadilly,50945
-Angel,Old Street,Northern,21682
+Angel,Old Street,Northern,17542
 Old Street,Moorgate,Northern,21682
-Moorgate,Barbican,Circle,33854
-Moorgate,Barbican,Metropolitan,
-Moorgate,Barbican,Hammersmith & City,
-Borough,Elephant & Castle,Northern,40059
-Elephant & Castle,Kennington,Northern,21682
-Elephant & Castle,Lambeth North,Bakerloo,5859
-Kennington,Oval,Northern,21682
+Moorgate,Barbican,Circle,33702
+Moorgate,Barbican,Metropolitan,0
+Moorgate,Barbican,Hammersmith & City,0
+Borough,Elephant & Castle,Northern,11081
+Elephant & Castle,Kennington,Northern,39444
+Elephant & Castle,Lambeth North,Bakerloo,4873
+Kennington,Oval,Northern,53976
 Kennington,Nine Elms,Northern,21682
-Oval,Stockwell,Northern,53976
-Stockwell,Clapham North,Northern,51659
+Oval,Stockwell,Northern,51659
+Stockwell,Clapham North,Northern,49793
 Stockwell,Brixton,Victoria,23381
-Stockwell,Vauxhall,Victoria,44099
-Clapham North,Clapham Common,Northern,49793
-Clapham Common,Clapham South,Northern,47869
-Clapham South,Balham,Northern,43980
+Stockwell,Vauxhall,Victoria,34142
+Clapham North,Clapham Common,Northern,47869
+Clapham Common,Clapham South,Northern,43980
+Clapham South,Balham,Northern,38039
 Balham,Tooting Bec,Northern,31087
-Tooting Bec,Tooting Broadway,Northern,31087
-Tooting Broadway,Colliers Wood,Northern,25034
+Tooting Bec,Tooting Broadway,Northern,25034
+Tooting Broadway,Colliers Wood,Northern,16851
 Colliers Wood,South Wimbledon,Northern,11602
-South Wimbledon,Morden,Northern,11602
+South Wimbledon,Morden,Northern,8035
 Finchley Central,Mill Hill East,Northern,1293
 Finchley Central,West Finchley,Northern,9847
 Finchley Central,East Finchley,Northern,16518
-Charing Cross,Embankment,Northern,27870
+Charing Cross,Embankment,Northern,44482
 Charing Cross,Embankment,Bakerloo,20363
 Charing Cross,Leicester Square,Northern,15932
-Charing Cross,Piccadilly Circus,Bakerloo,16622
-Embankment,Temple,Circle,31545
-Embankment,Temple,District,
-High Barnet,Totteridge & Whetstone,Northern,5516
-Totteridge & Whetstone,Woodside Park,Northern,8415
-Woodside Park,West Finchley,Northern,9847
-East Finchley,Highgate,Northern,25852
+Charing Cross,Piccadilly Circus,Bakerloo,20363
+Embankment,Temple,Circle,32735
+Embankment,Temple,District,0
+High Barnet,Totteridge & Whetstone,Northern,3271
+Totteridge & Whetstone,Woodside Park,Northern,5516
+Woodside Park,West Finchley,Northern,8415
+East Finchley,Highgate,Northern,21737
 Highgate,Archway,Northern,25852
-Archway,Tufnell Park,Northern,32675
-Tufnell Park,Kentish Town,Northern,33254
+Archway,Tufnell Park,Northern,30291
+Tufnell Park,Kentish Town,Northern,32675
 Warren Street,Goodge Street,Northern,18383
-Leicester Square,Piccadilly Circus,Piccadilly,18938
-Leicester Square,Covent Garden,Piccadilly,21687
-Battersea Power Station,Nine Elms,Northern,
-Maryland,Forest Gate,TfL Rail,28956
-Forest Gate,Manor Park,TfL Rail,28440
-Manor Park,Ilford,TfL Rail,26616
-Ilford,Seven Kings,TfL Rail,25284
-Seven Kings,Goodmayes,TfL Rail,20853
-Goodmayes,Chadwell Heath,TfL Rail,17811
-Chadwell Heath,Romford,TfL Rail,1285
-Romford,Gidea Park,TfL Rail,1159
+Leicester Square,Piccadilly Circus,Piccadilly,21687
+Leicester Square,Covent Garden,Piccadilly,27777
+Battersea Power Station,Nine Elms,Northern,0
+Maryland,Forest Gate,TfL Rail,28440
+Forest Gate,Manor Park,TfL Rail,26616
+Manor Park,Ilford,TfL Rail,25284
+Ilford,Seven Kings,TfL Rail,20853
+Seven Kings,Goodmayes,TfL Rail,17811
+Goodmayes,Chadwell Heath,TfL Rail,14905
+Chadwell Heath,Romford,TfL Rail,11392
+Romford,Gidea Park,TfL Rail,1285
 Romford,Emerson Park,London Overground,253
-Gidea Park,Harold Wood,TfL Rail,1021
+Gidea Park,Harold Wood,TfL Rail,1159
 Harold Wood,Brentwood,TfL Rail,1021
 Brentwood,Shenfield,TfL Rail,248
-Cambridge Heath,London Fields,London Overground,15228
-London Fields,Hackney Downs,London Overground,15529
+Cambridge Heath,London Fields,London Overground,15529
+London Fields,Hackney Downs,London Overground,15365
 Hackney Downs,Rectory Road,London Overground,6350
-Hackney Downs,Clapton,London Overground,15365
-Rectory Road,Stoke Newington,London Overground,6350
-Stoke Newington,Stamford Hill,London Overground,5982
-Stamford Hill,Seven Sisters,London Overground,5686
+Hackney Downs,Clapton,London Overground,9262
+Rectory Road,Stoke Newington,London Overground,5982
+Stoke Newington,Stamford Hill,London Overground,5686
+Stamford Hill,Seven Sisters,London Overground,5563
 Seven Sisters,Bruce Grove,London Overground,9174
 Seven Sisters,Finsbury Park,Victoria,41863
-Seven Sisters,Tottenham Hale,Victoria,41863
+Seven Sisters,Tottenham Hale,Victoria,27514
 Bruce Grove,White Hart Lane,London Overground,8552
-White Hart Lane,Silver Street,London Overground,8552
-Silver Street,Edmonton Green,London Overground,7741
+White Hart Lane,Silver Street,London Overground,7741
+Silver Street,Edmonton Green,London Overground,6649
 Edmonton Green,Southbury,London Overground,1843
-Edmonton Green,Bush Hill Park,London Overground,6649
-Southbury,Turkey Street,London Overground,1843
-Turkey Street,Theobalds Grove,London Overground,1411
-Theobalds Grove,Cheshunt,London Overground,665
+Edmonton Green,Bush Hill Park,London Overground,3165
+Southbury,Turkey Street,London Overground,1411
+Turkey Street,Theobalds Grove,London Overground,665
+Theobalds Grove,Cheshunt,London Overground,171
 Enfield Town,Bush Hill Park,London Overground,1803
 Emerson Park,Upminster,London Overground,120
-Upminster,Upminster Bridge,District,1133
-Clapton,St James Street,London Overground,9262
-St James Street,Walthamstow Central,London Overground,8516
+Upminster,Upminster Bridge,District,607
+Clapton,St James Street,London Overground,8516
+St James Street,Walthamstow Central,London Overground,7671
 Walthamstow Central,Wood Street,London Overground,6160
-Walthamstow Central,Blackhorse Road,Victoria,19862
-Wood Street,Highams Park,London Overground,6160
-Highams Park,Chingford,London Overground,4932
+Walthamstow Central,Blackhorse Road,Victoria,13399
+Wood Street,Highams Park,London Overground,4932
+Highams Park,Chingford,London Overground,2040
 Richmond,Kew Gardens,London Overground,5157
-Richmond,Kew Gardens,District,
+Richmond,Kew Gardens,District,0
 Kew Gardens,Gunnersbury,London Overground,6861
 Kew Gardens,Gunnersbury,District,5759
-Gunnersbury,South Acton,London Overground,3287
+Gunnersbury,South Acton,London Overground,3004
 Gunnersbury,Turnham Green,District,5759
 South Acton,Acton Central,London Overground,3287
-Harrow & Wealdstone,Kenton,London Overground,3553
-Harrow & Wealdstone,Kenton,Bakerloo,
-Harrow & Wealdstone,Headstone Lane,London Overground,3012
-Kenton,South Kenton,London Overground,4346
-Kenton,South Kenton,Bakerloo,
-South Kenton,North Wembley,London Overground,5092
-South Kenton,North Wembley,Bakerloo,
-North Wembley,Wembley Central,London Overground,6380
-North Wembley,Wembley Central,Bakerloo,
-Wembley Central,Stonebridge Park,London Overground,7252
-Wembley Central,Stonebridge Park,Bakerloo,
-Stonebridge Park,Harlesden,London Overground,7657
-Stonebridge Park,Harlesden,Bakerloo,
+Harrow & Wealdstone,Kenton,London Overground,3012
+Harrow & Wealdstone,Kenton,Bakerloo,0
+Harrow & Wealdstone,Headstone Lane,London Overground,1971
+Kenton,South Kenton,London Overground,3553
+Kenton,South Kenton,Bakerloo,0
+South Kenton,North Wembley,London Overground,4346
+South Kenton,North Wembley,Bakerloo,0
+North Wembley,Wembley Central,London Overground,5092
+North Wembley,Wembley Central,Bakerloo,0
+Wembley Central,Stonebridge Park,London Overground,6380
+Wembley Central,Stonebridge Park,Bakerloo,0
+Stonebridge Park,Harlesden,London Overground,7252
+Stonebridge Park,Harlesden,Bakerloo,0
 Harlesden,Willesden Junction,London Overground,7657
-Harlesden,Willesden Junction,Bakerloo,
-Willesden Junction,Kensal Green,London Overground,6470
-Willesden Junction,Kensal Green,Bakerloo,
+Harlesden,Willesden Junction,Bakerloo,0
+Willesden Junction,Kensal Green,London Overground,7309
+Willesden Junction,Kensal Green,Bakerloo,0
 Willesden Junction,Acton Central,London Overground,6470
-Willesden Junction,Kensal Rise,London Overground,6470
-Kensal Green,Queen's Park,London Overground,7309
+Willesden Junction,Kensal Rise,London Overground,12811
+Kensal Green,Queen's Park,London Overground,6889
 Kensal Green,Queen's Park,Bakerloo,6446
 Queen's Park,Kilburn High Road,London Overground,4333
-Queen's Park,Kilburn Park,Bakerloo,7832
+Queen's Park,Kilburn Park,Bakerloo,6446
 Kilburn High Road,South Hampstead,London Overground,4333
-Kensal Rise,Brondesbury Park,London Overground,12811
-Brondesbury Park,Brondesbury,London Overground,12702
-Finchley Road & Frognal,Hampstead Heath,London Overground,15452
-Hampstead Heath,Gospel Oak,London Overground,15877
-Gospel Oak,Kentish Town West,London Overground,16831
+Kensal Rise,Brondesbury Park,London Overground,12702
+Brondesbury Park,Brondesbury,London Overground,12921
+Finchley Road & Frognal,Hampstead Heath,London Overground,15877
+Hampstead Heath,Gospel Oak,London Overground,16831
+Gospel Oak,Kentish Town West,London Overground,15214
 Gospel Oak,Upper Holloway,London Overground,2511
-Kentish Town West,Camden Road,London Overground,15214
-Camden Road,Caledonian Road & Barnsbury,London Overground,14753
-Caledonian Road & Barnsbury,Highbury & Islington,London Overground,17044
+Kentish Town West,Camden Road,London Overground,14753
+Camden Road,Caledonian Road & Barnsbury,London Overground,17044
+Caledonian Road & Barnsbury,Highbury & Islington,London Overground,18084
 Highbury & Islington,Canonbury,London Overground,26981
-Highbury & Islington,Finsbury Park,Victoria,49537
+Highbury & Islington,Finsbury Park,Victoria,46093
 Canonbury,Dalston Kingsland,London Overground,23452
-Canonbury,Dalston Junction,London Overground,26981
-Dalston Kingsland,Hackney Central,London Overground,23452
-Hackney Central,Homerton,London Overground,22520
-Homerton,Hackney Wick,London Overground,21199
-Whitechapel,Shadwell,London Overground,11760
-Whitechapel,Shoreditch High Street,London Overground,5904
+Canonbury,Dalston Junction,London Overground,4556
+Dalston Kingsland,Hackney Central,London Overground,22520
+Hackney Central,Homerton,London Overground,21199
+Homerton,Hackney Wick,London Overground,19907
+Whitechapel,Shadwell,London Overground,14779
+Whitechapel,Shoreditch High Street,London Overground,11760
 Whitechapel,Aldgate East,District,38401
 Whitechapel,Aldgate East,Hammersmith & City,9862
-Whitechapel,Stepney Green,District,38401
-Whitechapel,Stepney Green,Hammersmith & City,
-Shadwell,Wapping,London Overground,14779
-Shadwell,Limehouse,DLR,3342
+Whitechapel,Stepney Green,District,39137
+Whitechapel,Stepney Green,Hammersmith & City,0
+Shadwell,Wapping,London Overground,14367
+Shadwell,Limehouse,DLR,23137
 Shadwell,Tower Gateway,DLR,853
-Wapping,Rotherhithe,London Overground,14367
-Surrey Quays,New Cross Gate,London Overground,3501
+Wapping,Rotherhithe,London Overground,14453
+Surrey Quays,New Cross Gate,London Overground,12605
 Surrey Quays,New Cross,London Overground,1440
 Surrey Quays,Queens Road Peckham,London Overground,5611
-New Cross Gate,Brockley,London Overground,3360
-Shoreditch High Street,Hoxton,London Overground,4579
+New Cross Gate,Brockley,London Overground,3501
+Shoreditch High Street,Hoxton,London Overground,5904
 Sydenham,Crystal Palace,London Overground,1935
-Sydenham,Forest Hill,London Overground,499
-Sydenham,Penge West,London Overground,499
-Queens Road Peckham,Peckham Rye,London Overground,5611
-Peckham Rye,Denmark Hill,London Overground,4948
-Denmark Hill,Clapham High Street,London Overground,4720
-Clapham High Street,Wandsworth Road,London Overground,0
-Wandsworth Road,Clapham Junction,London Overground,0
+Sydenham,Forest Hill,London Overground,3075
+Sydenham,Penge West,London Overground,2372
+Queens Road Peckham,Peckham Rye,London Overground,4372
+Peckham Rye,Denmark Hill,London Overground,3452
+Denmark Hill,Clapham High Street,London Overground,4948
+Clapham High Street,Wandsworth Road,London Overground,4720
+Wandsworth Road,Clapham Junction,London Overground,4497
 Wandsworth Road,Battersea Park,London Overground,0
-Clapham Junction,Imperial Wharf,London Overground,6004
-West Brompton,Imperial Wharf,London Overground,5776
+Clapham Junction,Imperial Wharf,London Overground,6294
+West Brompton,Imperial Wharf,London Overground,6004
 West Brompton,Kensington,London Overground,5776
 West Brompton,Earl's Court,District,22910
 West Brompton,Fulham Broadway,District,22650
 Bushey,Watford High Street,London Overground,836
-Bushey,Carpenders Park,London Overground,1403
+Bushey,Carpenders Park,London Overground,947
 Watford High Street,Watford Junction,London Overground,491
-Carpenders Park,Hatch End,London Overground,1775
-Hatch End,Headstone Lane,London Overground,1971
-Upper Holloway,Crouch Hill,London Overground,2511
-Crouch Hill,Harringay Green Lanes,London Overground,3162
-Harringay Green Lanes,South Tottenham,London Overground,3271
-South Tottenham,Blackhorse Road,London Overground,3450
-Blackhorse Road,Walthamstow Queens Road,London Overground,3714
-Blackhorse Road,Tottenham Hale,Victoria,27514
-Walthamstow Queens Road,Leyton Midland Road,London Overground,3649
-Leyton Midland Road,Leytonstone High Road,London Overground,4231
-Leytonstone High Road,Wanstead Park,London Overground,3869
-Wanstead Park,Woodgrange Park,London Overground,3426
-Woodgrange Park,Barking,London Overground,2833
-Barking,East Ham,District,21100
-Barking,East Ham,Hammersmith & City,
+Carpenders Park,Hatch End,London Overground,1403
+Hatch End,Headstone Lane,London Overground,1775
+Upper Holloway,Crouch Hill,London Overground,3162
+Crouch Hill,Harringay Green Lanes,London Overground,3271
+Harringay Green Lanes,South Tottenham,London Overground,3450
+South Tottenham,Blackhorse Road,London Overground,3714
+Blackhorse Road,Walthamstow Queens Road,London Overground,3649
+Blackhorse Road,Tottenham Hale,Victoria,19862
+Walthamstow Queens Road,Leyton Midland Road,London Overground,4231
+Leyton Midland Road,Leytonstone High Road,London Overground,3869
+Leytonstone High Road,Wanstead Park,London Overground,3426
+Wanstead Park,Woodgrange Park,London Overground,2833
+Woodgrange Park,Barking,London Overground,2384
+Barking,East Ham,District,14462
+Barking,East Ham,Hammersmith & City,0
 Barking,Upney,District,13108
-Brockley,Honor Oak Park,London Overground,3340
-Honor Oak Park,Forest Hill,London Overground,3075
+Brockley,Honor Oak Park,London Overground,3360
+Honor Oak Park,Forest Hill,London Overground,3340
 Penge West,Anerley,London Overground,2330
 Anerley,Norwood Junction,London Overground,1907
 Norwood Junction,West Croydon,London Overground,1332
-Dalston Junction,Haggerston,London Overground,4556
-Haggerston,Hoxton,London Overground,4559
+Dalston Junction,Haggerston,London Overground,4559
+Haggerston,Hoxton,London Overground,4579
 Kensington,Earl's Court,District,1660
-Vauxhall,Pimlico,Victoria,46273
-Pimlico,Victoria,Victoria,55362
-Victoria,Sloane Square,Circle,30250
-Victoria,Sloane Square,District,
-Victoria,St. James's Park,Circle,33905
-Victoria,St. James's Park,District,
-Finsbury Park,Arsenal,Piccadilly,46891
-Finsbury Park,Manor House,Piccadilly,45016
-South Kensington,Sloane Square,Circle,32168
-South Kensington,Sloane Square,District,
-South Kensington,Gloucester Road,Circle,11815
+Vauxhall,Pimlico,Victoria,44099
+Pimlico,Victoria,Victoria,46273
+Victoria,Sloane Square,Circle,33905
+Victoria,Sloane Square,District,0
+Victoria,St. James's Park,Circle,24680
+Victoria,St. James's Park,District,0
+Finsbury Park,Arsenal,Piccadilly,45016
+Finsbury Park,Manor House,Piccadilly,29933
+South Kensington,Sloane Square,Circle,30250
+South Kensington,Sloane Square,District,0
+South Kensington,Gloucester Road,Circle,32168
 South Kensington,Gloucester Road,District,19227
 South Kensington,Gloucester Road,Piccadilly,25823
 South Kensington,Knightsbridge,Piccadilly,10428
 Gloucester Road,High Street Kensington,Circle,9933
-Gloucester Road,Earl's Court,District,771
+Gloucester Road,Earl's Court,District,19227
 Gloucester Road,Earl's Court,Piccadilly,5197
 High Street Kensington,Earl's Court,District,8400
 Bayswater,Paddington,Circle,13172
-Bayswater,Paddington,District,
-Paddington,Edgware Road,Circle,16669
-Paddington,Edgware Road,District,
+Bayswater,Paddington,District,0
+Paddington,Edgware Road,Circle,36351
+Paddington,Edgware Road,District,0
 Paddington,Edgware Road,Bakerloo,3886
-Paddington,Edgware Road,Hammersmith & City,
-Paddington,Royal Oak,Circle,16669
-Paddington,Royal Oak,Hammersmith & City,
+Paddington,Edgware Road,Hammersmith & City,0
+Paddington,Royal Oak,Circle,15765
+Paddington,Royal Oak,Hammersmith & City,0
 Paddington,Warwick Avenue,Bakerloo,11415
-Edgware Road,Marylebone,Bakerloo,14285
-Temple,Blackfriars,Circle,32735
-Temple,Blackfriars,District,
-Blackfriars,Mansion House,Circle,35600
-Blackfriars,Mansion House,District,
-Mansion House,Cannon Street,Circle,19470
-Mansion House,Cannon Street,District,
-Tower Hill,Aldgate,Circle,44302
+Edgware Road,Marylebone,Bakerloo,8500
+Temple,Blackfriars,Circle,35600
+Temple,Blackfriars,District,0
+Blackfriars,Mansion House,Circle,36528
+Blackfriars,Mansion House,District,0
+Mansion House,Cannon Street,Circle,38159
+Mansion House,Cannon Street,District,0
+Tower Hill,Aldgate,Circle,12744
 Tower Hill,Aldgate East,District,28671
-Great Portland Street,Euston Square,Circle,50005
-Great Portland Street,Euston Square,Metropolitan,
-Great Portland Street,Euston Square,Hammersmith & City,
-Farringdon,Barbican,Circle,23003
-Farringdon,Barbican,Metropolitan,
-Farringdon,Barbican,Hammersmith & City,
+Great Portland Street,Euston Square,Circle,36018
+Great Portland Street,Euston Square,Metropolitan,0
+Great Portland Street,Euston Square,Hammersmith & City,0
+Farringdon,Barbican,Circle,30581
+Farringdon,Barbican,Metropolitan,0
+Farringdon,Barbican,Hammersmith & City,0
 Hammersmith,Goldhawk Road,Circle,12995
-Hammersmith,Goldhawk Road,Hammersmith & City,
+Hammersmith,Goldhawk Road,Hammersmith & City,0
 Hammersmith,Barons Court,District,12693
 Hammersmith,Barons Court,Piccadilly,8769
 Hammersmith,Ravenscourt Park,District,12773
-Hammersmith,Turnham Green,Piccadilly,6325
-Goldhawk Road,Shepherd's Bush Market,Circle,12995
-Goldhawk Road,Shepherd's Bush Market,Hammersmith & City,
-Shepherd's Bush Market,Wood Lane,Circle,13178
-Shepherd's Bush Market,Wood Lane,Hammersmith & City,
-Wood Lane,Latimer Road,Circle,13226
-Wood Lane,Latimer Road,Hammersmith & City,
-Latimer Road,Ladbroke Grove,Circle,14012
-Latimer Road,Ladbroke Grove,Hammersmith & City,
-Ladbroke Grove,Westbourne Park,Circle,14472
-Ladbroke Grove,Westbourne Park,Hammersmith & City,
-Westbourne Park,Royal Oak,Circle,15279
-Westbourne Park,Royal Oak,Hammersmith & City,
+Hammersmith,Turnham Green,Piccadilly,8769
+Goldhawk Road,Shepherd's Bush Market,Circle,13178
+Goldhawk Road,Shepherd's Bush Market,Hammersmith & City,0
+Shepherd's Bush Market,Wood Lane,Circle,13226
+Shepherd's Bush Market,Wood Lane,Hammersmith & City,0
+Wood Lane,Latimer Road,Circle,14012
+Wood Lane,Latimer Road,Hammersmith & City,0
+Latimer Road,Ladbroke Grove,Circle,14472
+Latimer Road,Ladbroke Grove,Hammersmith & City,0
+Ladbroke Grove,Westbourne Park,Circle,15279
+Ladbroke Grove,Westbourne Park,Hammersmith & City,0
+Westbourne Park,Royal Oak,Circle,15518
+Westbourne Park,Royal Oak,Hammersmith & City,0
 Uxbridge,Hillingdon,Metropolitan,2764
-Uxbridge,Hillingdon,Piccadilly,
-Hillingdon,Ickenham,Metropolitan,4453
-Hillingdon,Ickenham,Piccadilly,
-Ickenham,Ruislip,Metropolitan,5335
-Ickenham,Ruislip,Piccadilly,
-Ruislip,Ruislip Manor,Metropolitan,6229
-Ruislip,Ruislip Manor,Piccadilly,
+Uxbridge,Hillingdon,Piccadilly,0
+Hillingdon,Ickenham,Metropolitan,3960
+Hillingdon,Ickenham,Piccadilly,0
+Ickenham,Ruislip,Metropolitan,4453
+Ickenham,Ruislip,Piccadilly,0
+Ruislip,Ruislip Manor,Metropolitan,5335
+Ruislip,Ruislip Manor,Piccadilly,0
 Ruislip Manor,Eastcote,Metropolitan,6229
-Ruislip Manor,Eastcote,Piccadilly,
+Ruislip Manor,Eastcote,Piccadilly,0
 Eastcote,Rayners Lane,Metropolitan,8268
 Eastcote,Rayners Lane,Piccadilly,3578
 Rayners Lane,West Harrow,Metropolitan,3390
-Rayners Lane,South Harrow,Piccadilly,4847
-West Harrow,Harrow-on-the-Hill,Metropolitan,3390
+Rayners Lane,South Harrow,Piccadilly,3578
+West Harrow,Harrow-on-the-Hill,Metropolitan,3234
 Harrow-on-the-Hill,North Harrow,Metropolitan,12769
-Harrow-on-the-Hill,Northwick Park,Metropolitan,3234
-Amersham,Chalfont & Latimer,Metropolitan,2664
-Chalfont & Latimer,Chorleywood,Metropolitan,3397
+Harrow-on-the-Hill,Northwick Park,Metropolitan,5757
+Amersham,Chalfont & Latimer,Metropolitan,1190
+Chalfont & Latimer,Chorleywood,Metropolitan,2664
 Chalfont & Latimer,Chesham,Metropolitan,932
-Chorleywood,Rickmansworth,Metropolitan,4259
-Rickmansworth,Moor Park,Metropolitan,6683
-Moor Park,Northwood,Metropolitan,8195
+Chorleywood,Rickmansworth,Metropolitan,3397
+Rickmansworth,Moor Park,Metropolitan,4259
+Moor Park,Northwood,Metropolitan,6683
 Moor Park,Croxley,Metropolitan,2274
-Northwood,Northwood Hills,Metropolitan,9158
-Northwood Hills,Pinner,Metropolitan,11322
-Pinner,North Harrow,Metropolitan,12769
-Northwick Park,Preston Road,Metropolitan,5757
+Northwood,Northwood Hills,Metropolitan,8195
+Northwood Hills,Pinner,Metropolitan,9158
+Pinner,North Harrow,Metropolitan,11322
+Northwick Park,Preston Road,Metropolitan,6618
 Croxley,Watford,Metropolitan,1400
 Earl's Court,West Kensington,District,17627
 Earl's Court,Barons Court,Piccadilly,5197
-West Kensington,Barons Court,District,17627
-Ravenscourt Park,Stamford Brook,District,12773
-Stamford Brook,Turnham Green,District,4544
+West Kensington,Barons Court,District,8608
+Ravenscourt Park,Stamford Brook,District,5241
+Stamford Brook,Turnham Green,District,5136
 Turnham Green,Chiswick Park,District,6661
 Turnham Green,Acton Town,Piccadilly,6325
-Chiswick Park,Acton Town,District,6661
+Chiswick Park,Acton Town,District,4135
 Acton Town,Ealing Common,District,14215
 Acton Town,Ealing Common,Piccadilly,7052
 Acton Town,South Ealing,Piccadilly,16354
 Ealing Common,North Ealing,Piccadilly,8311
-Wimbledon,Wimbledon Park,District,7967
+Wimbledon,Wimbledon Park,District,7073
 Wimbledon Park,Southfields,District,7967
 Southfields,East Putney,District,11542
-East Putney,Putney Bridge,District,17691
-Putney Bridge,Parsons Green,District,20784
-Parsons Green,Fulham Broadway,District,22650
-Bow Road,Bromley-by-Bow,District,31443
-Bow Road,Bromley-by-Bow,Hammersmith & City,
-Plaistow,Upton Park,District,28676
-Plaistow,Upton Park,Hammersmith & City,
-Upton Park,East Ham,District,25948
-Upton Park,East Ham,Hammersmith & City,
-Upney,Becontree,District,13108
+East Putney,Putney Bridge,District,15704
+Putney Bridge,Parsons Green,District,17691
+Parsons Green,Fulham Broadway,District,20784
+Bow Road,Bromley-by-Bow,District,28326
+Bow Road,Bromley-by-Bow,Hammersmith & City,0
+Plaistow,Upton Park,District,25948
+Plaistow,Upton Park,Hammersmith & City,0
+Upton Park,East Ham,District,21100
+Upton Park,East Ham,Hammersmith & City,0
+Upney,Becontree,District,11614
 Becontree,Dagenham Heathway,District,9674
-Dagenham Heathway,Dagenham East,District,9674
+Dagenham Heathway,Dagenham East,District,6701
 Dagenham East,Elm Park,District,5030
 Elm Park,Hornchurch,District,2587
 Hornchurch,Upminster Bridge,District,1133
-South Ealing,Northfields,Piccadilly,16354
-Knightsbridge,Hyde Park Corner,Piccadilly,10428
-Caledonian Road,Holloway Road,Piccadilly,50945
-Holloway Road,Arsenal,Piccadilly,49123
-Manor House,Turnpike Lane,Piccadilly,29933
-Turnpike Lane,Wood Green,Piccadilly,25208
-Wood Green,Bounds Green,Piccadilly,19048
-Bounds Green,Arnos Grove,Piccadilly,13143
+South Ealing,Northfields,Piccadilly,14644
+Knightsbridge,Hyde Park Corner,Piccadilly,15174
+Caledonian Road,Holloway Road,Piccadilly,49123
+Holloway Road,Arsenal,Piccadilly,46891
+Manor House,Turnpike Lane,Piccadilly,25208
+Turnpike Lane,Wood Green,Piccadilly,19048
+Wood Green,Bounds Green,Piccadilly,13143
+Bounds Green,Arnos Grove,Piccadilly,8934
 Arnos Grove,Southgate,Piccadilly,6187
-Southgate,Oakwood,Piccadilly,6187
-Oakwood,Cockfosters,Piccadilly,2739
-South Harrow,Sudbury Hill,Piccadilly,5864
-Sudbury Hill,Sudbury Town,Piccadilly,7081
+Southgate,Oakwood,Piccadilly,2739
+Oakwood,Cockfosters,Piccadilly,1000
+South Harrow,Sudbury Hill,Piccadilly,4847
+Sudbury Hill,Sudbury Town,Piccadilly,5864
 Sudbury Town,Alperton,Piccadilly,7081
-Alperton,Park Royal,Piccadilly,8090
-Park Royal,North Ealing,Piccadilly,8311
-Heathrow Terminal 4,Hatton Cross,Piccadilly,202
+Alperton,Park Royal,Piccadilly,8189
+Park Royal,North Ealing,Piccadilly,8090
+Heathrow Terminal 4,Hatton Cross,Piccadilly,609
 Heathrow Terminal 4,Heathrow Terminals 2 & 3,Piccadilly,108
-Hatton Cross,Heathrow Terminals 2 & 3,Piccadilly,108
-Hatton Cross,Hounslow West,Piccadilly,6459
-Heathrow Terminals 2 & 3,Heathrow Terminal 5,Piccadilly,108
-Hounslow West,Hounslow Central,Piccadilly,8329
-Hounslow Central,Hounslow East,Piccadilly,10227
-Hounslow East,Osterley,Piccadilly,11432
+Hatton Cross,Heathrow Terminals 2 & 3,Piccadilly,2907
+Hatton Cross,Hounslow West,Piccadilly,4636
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,Piccadilly,938
+Hounslow West,Hounslow Central,Piccadilly,6459
+Hounslow Central,Hounslow East,Piccadilly,8329
+Hounslow East,Osterley,Piccadilly,10227
 Osterley,Boston Manor,Piccadilly,11432
-Boston Manor,Northfields,Piccadilly,14644
+Boston Manor,Northfields,Piccadilly,12153
 Stratford High Street,Abbey Road,DLR,1170
-Royal Victoria,Custom House,DLR,6705
-Limehouse,Westferry,DLR,17878
+Royal Victoria,Custom House,DLR,4778
+Limehouse,Westferry,DLR,24698
 Westferry,West India Quay,DLR,13533
-Westferry,Poplar,DLR,4607
-West India Quay,Poplar,DLR,13533
-Heron Quays,South Quay,DLR,14135
-South Quay,Crossharbour,DLR,16515
+Westferry,Poplar,DLR,6640
+West India Quay,Poplar,DLR,4326
+Heron Quays,South Quay,DLR,16515
+South Quay,Crossharbour,DLR,16186
 Crossharbour,Mudchute,DLR,15097
-Mudchute,Island Gardens,DLR,15097
-Island Gardens,Cutty Sark,DLR,13977
+Mudchute,Island Gardens,DLR,13977
+Island Gardens,Cutty Sark,DLR,13013
 Cutty Sark,Greenwich,DLR,11352
-Greenwich,Deptford Bridge,DLR,11352
+Greenwich,Deptford Bridge,DLR,10867
 Deptford Bridge,Elverson Road,DLR,8867
 Elverson Road,Lewisham,DLR,7868
 Poplar,All Saints,DLR,4607
-Poplar,Blackwall,DLR,4607
+Poplar,Blackwall,DLR,7382
 All Saints,Langdon Park,DLR,24328
-Blackwall,East India,DLR,7067
-Custom House,Prince Regent,DLR,4778
-Prince Regent,Royal Albert,DLR,4062
-Royal Albert,Beckton Park,DLR,3198
-Beckton Park,Cyprus,DLR,2591
-Cyprus,Gallions Reach,DLR,2303
-Gallions Reach,Beckton,DLR,1809
-Langdon Park,Devons Road,DLR,24328
-Devons Road,Bow Church,DLR,4552
-Bow Church,Pudding Mill Lane,DLR,4628
+Blackwall,East India,DLR,7106
+Custom House,Prince Regent,DLR,4062
+Prince Regent,Royal Albert,DLR,3198
+Royal Albert,Beckton Park,DLR,2591
+Beckton Park,Cyprus,DLR,2303
+Cyprus,Gallions Reach,DLR,1809
+Gallions Reach,Beckton,DLR,1179
+Langdon Park,Devons Road,DLR,4537
+Devons Road,Bow Church,DLR,4888
+Bow Church,Pudding Mill Lane,DLR,4552
 Woolwich Arsenal,King George V,DLR,7892
-King George V,London City Airport,DLR,9968
-West Silvertown,Pontoon Dock,DLR,12380
-Pontoon Dock,London City Airport,DLR,11677
-Kilburn Park,Maida Vale,Bakerloo,9582
-Maida Vale,Warwick Avenue,Bakerloo,11415
+King George V,London City Airport,DLR,8459
+West Silvertown,Pontoon Dock,DLR,11677
+Pontoon Dock,London City Airport,DLR,9968
+Kilburn Park,Maida Vale,Bakerloo,7832
+Maida Vale,Warwick Avenue,Bakerloo,9582
