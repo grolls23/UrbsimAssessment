@@ -1,13 +1,13 @@
-Removals,Rem. Station,Avg. Path Length,Avg. Transfer,% Connected\
-0,N/a,13.8,1.03,100%\
-1,West Ham,14.059,1.1,99.75%\
-2,Baker Street,15.27,1.23,99.50%\
-3,Embankment,15.049,1.32,99.25%\
-4,Paddington,15.05,1.34,98.50%\
-5,King's X St. Pancras,15.54,1.55,97.76%\
-6,Earl's Court,16.1,1.77,97.51%\
-7,Waterloo,16.3,1.77,97.25%\
-8,Moorgate,16.26,1.74,96.01%\
-9,Willesden Junction,18.05,2.07,92.52%\
-10,Stratford,18.16,2.24,86.53%\
+Removals,Rem. Station,Avg. Path Length,Avg. Transfer,% Connected
+0,N/a,13.8,1.03,100
+1,West Ham,14.059,1.1,99.75
+2,Baker Street,15.27,1.23,99.5
+3,Embankment,15.049,1.32,99.25
+4,Paddington,15.05,1.34,98.5
+5,King's X St. Pancras,15.54,1.55,97.76
+6,Earl's Court,16.1,1.77,97.51
+7,Waterloo,16.3,1.77,97.25
+8,Moorgate,16.26,1.74,96.01
+9,Willesden Junction,18.05,2.07,92.52
+10,Stratford,18.16,2.24,86.53
 },,,,

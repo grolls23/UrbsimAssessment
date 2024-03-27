@@ -1,13 +1,13 @@
-Removals,Rem. Station,Avg. Path Length,Avg. Transfer,% Connected\
-0,N/a,13.8,1.03,100%\
-1,Westminster,13.8,1.09,99.75%\
-2,Moorgate,13.96,1.15,99.50%\
-3,Tower Hill,13.94,1.17,99.25%\
-4,Liverpool Street,14.28,1.27,98.75%\
-5,Stratford,13.7,1.2,93.26%\
-6,Aldgate East,13.7,1.2,93.02%\
-7,Piccadilly Circus,13.87,1.3,92.77%\
-8,Bank and Monument,13.91,1.32,92.52%\
-9,West Ham,14.11,1.35,91.77%\
-10,Embankment,13.93,1.4,90.52%\
+Removals,Rem. Station,Avg. Path Length,Avg. Transfer,% Connected
+0,N/a,13.8,1.03,100
+1,Westminster,13.8,1.09,99.75
+2,Moorgate,13.96,1.15,99.5
+3,Tower Hill,13.94,1.17,99.25
+4,Liverpool Street,14.28,1.27,98.75
+5,Stratford,13.7,1.2,93.26
+6,Aldgate East,13.7,1.2,93.02
+7,Piccadilly Circus,13.87,1.3,92.77
+8,Bank and Monument,13.91,1.32,92.52
+9,West Ham,14.11,1.35,91.77
+10,Embankment,13.93,1.4,90.52
 },,,,
